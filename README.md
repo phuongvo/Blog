@@ -1,0 +1,4 @@
+Blog
+====
+
+CakePHP blog example
